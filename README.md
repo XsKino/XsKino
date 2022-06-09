@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hi! This is Andrés</h2>
+<h2>👋 Hi! This is Andrés</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
