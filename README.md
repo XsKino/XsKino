@@ -24,7 +24,7 @@ const Andres = {
 };
 ```
 
-<img alt="image" src="https://c.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" align="right"/>
+<img alt="image" width="50%" height="auto" src="https://c.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" align="right"/>
   
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,7 +47,7 @@ const Andres = {
 
 <p>
 <a href="https://github.com/andresprza">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andresprza&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="40%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andresprza&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
