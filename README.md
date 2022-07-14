@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I'm a **junior** web developer who likes to learn about new technologies and create software solutions.\
-🎓 &nbsp;I'm currently studying Informatics Engineering at "Instituto Tecnologico de Chihuahua II".\
+🎓 &nbsp;I'm currently studying Informatics Engineering at *[Instituto Tecnologico de Chihuahua II](http://www.chihuahua2.tecnm.mx)*.\
 🌱 &nbsp;I'm willing to learn and work on Web Development.
 
 ``` js
@@ -12,13 +12,12 @@ const Andres = {
   from: 'Mexico',
   learning: 'More about React JS',
   workingOn: `FreeCodeCamp's "Front End Development Libraries" Certification`,
-  passions: [
+  hobbies: [
     'coding',
     'videogames',
     'anime',
     'music',
     'art',
-    'memes',
     'rice balls'
   ]
 };
