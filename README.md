@@ -10,20 +10,14 @@
 const Andres = {
   age: 17,
   from: 'Mexico',
-  learning: 'More about React JS',
-  workingOn: `FreeCodeCamp's "Front End Development Libraries" Certification`,
-  hobbies: [
-    'coding',
-    'videogames',
-    'anime',
-    'music',
-    'art',
-    'rice balls'
+  abilities: [
+    'quick learning',
+    'self teaching',
+    'finding solutions',
+    'good attitude',
   ]
 };
 ```
-
-<img alt="image" width="50%" height="auto" src="https://c.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" align="right"/>
   
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +26,6 @@ const Andres = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
