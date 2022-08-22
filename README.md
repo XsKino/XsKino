@@ -8,13 +8,13 @@
 
 ``` js
 const Andres = {
-  age: 17,
   from: 'Mexico',
+  mainField: 'Front-End',
   abilities: [
     'quick learning',
     'self teaching',
     'finding solutions',
-    'good attitude',
+    'great attitude',
   ]
 };
 ```
