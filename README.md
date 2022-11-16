@@ -1,16 +1,17 @@
-<h2>👋 Hi! This is Andrés</h2>
+<h2>👋 Hi! Andrés here.</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;I'm a **junior** web developer who likes to learn about new technologies and create software solutions.\
+💡 &nbsp;&nbsp;I'm a **junior** software developer who likes to learn about new technologies and create software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science & Engineering at *[Instituto Tecnologico de Chihuahua II](http://www.chihuahua2.tecnm.mx)*.\
 🌱 &nbsp;I'm willing to learn and work on Web Development.
 
 ``` js
-const Andres = {
-  from: 'Mexico',
-  mainField: 'Front-End',
-  abilities: [
+let Andres = {
+  'from': 'Mexico',
+  'level': 'Junior'
+  'stack': 'Front-End',
+  'abilities': [
     'quick learning',
     'self teaching',
     'finding solutions',
@@ -21,19 +22,14 @@ const Andres = {
   
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
-<!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; -->
-<!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
-<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\ -->
-<!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; -->
-<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
+![HTML](https://img.shields.io/badge/-HTML-09070f?style=flat&logo=HTML5&logoColor=ffffff)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-09070f?style=flat&logo=css3&logoColor=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-09070f?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
+![Reactjs](https://img.shields.io/badge/-Reactjs-09070f?style=flat&logo=react&logoColor=ffffff)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-09070f?style=flat&logo=tailwindcss&logoColor=ffffff)&nbsp;
+![Next](https://img.shields.io/badge/-Next-09070f?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
+![Python](https://img.shields.io/badge/-Python-09070f?style=flat&logo=python&logoColor=ffffff)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-09070f?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
