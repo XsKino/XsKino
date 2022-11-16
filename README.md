@@ -1,4 +1,4 @@
-<h2>👋 Hi! Andrés here.</h2>
+<h2>👋 Hi! Andrés (Kino) here.</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
