@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm willing to learn and work on Web Development.
 
 ``` js
-let Andres = {
+const Andres = {
   'from': 'Mexico',
   'level': 'Junior'
   'stack': 'Front-End',
@@ -25,9 +25,10 @@ let Andres = {
 ![HTML](https://img.shields.io/badge/-HTML-09070f?style=flat&logo=HTML5&logoColor=ffffff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-09070f?style=flat&logo=css3&logoColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-09070f?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-09070f?style=flat&logo=typescript&logoColor=ffffff)&nbsp; -->
 ![Reactjs](https://img.shields.io/badge/-Reactjs-09070f?style=flat&logo=react&logoColor=ffffff)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-09070f?style=flat&logo=tailwindcss&logoColor=ffffff)&nbsp;
-![Next](https://img.shields.io/badge/-Next-09070f?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
+<!-- ![Next](https://img.shields.io/badge/-Next-09070f?style=flat&logo=next.js&logoColor=ffffff)&nbsp; -->
 ![Python](https://img.shields.io/badge/-Python-09070f?style=flat&logo=python&logoColor=ffffff)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-09070f?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 
@@ -39,7 +40,7 @@ let Andres = {
 </a>
 </p> -->
 
-### 🌠 &nbsp;Visit my website [Here](https://xskino.vercel.app)
+<!-- ### 🌠 &nbsp;Visit my website [Here](https://xskino.vercel.app) -->
 
 ### 🤝🏻 &nbsp;Contact me
 
