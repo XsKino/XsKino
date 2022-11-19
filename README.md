@@ -34,6 +34,11 @@ const Andres = {
 ![Python](https://img.shields.io/badge/-Python-09070f?style=flat&logo=python&logoColor=ffffff)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-09070f?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 
+### 📜 &nbsp;My certifications
+✨ &nbsp;[FreeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/certification/andresprza/responsive-web-design)\
+✨ &nbsp;[FreeCodeCamp's JavaScript Algoriths and data structures Certification](https://www.freecodecamp.org/certification/andresprza/javascript-algorithms-and-data-structures)\
+✨ &nbsp;[FreeCodeCamp's Front End Development Libraries Certification](https://www.freecodecamp.org/certification/andresprza/front-end-development-libraries)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
