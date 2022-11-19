@@ -1,5 +1,7 @@
 <h2>👋 Hi! Andrés (Kino) here.</h2>
 
+![I'm Kino](GitHubBanner.jpg)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I'm a **junior** software developer who likes to learn about new technologies and create software solutions.\
