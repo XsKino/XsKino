@@ -37,8 +37,8 @@ const Andres = {
 
 ### 📜 &nbsp;My certificates
 ✨ &nbsp;[FreeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/certification/andresprza/responsive-web-design)\
-✨ &nbsp;[FreeCodeCamp's JavaScript Algoriths and data structures Certification](https://www.freecodecamp.org/certification/andresprza/javascript-algorithms-and-data-structures)\
-✨ &nbsp;[FreeCodeCamp's Front End Development Libraries Certification](https://www.freecodecamp.org/certification/andresprza/front-end-development-libraries)
+✨ &nbsp;[FreeCodeCamp's JavaScript Algorithms and data structures Certification](https://www.freecodecamp.org/certification/andresprza/javascript-algorithms-and-data-structures)\
+✨ &nbsp;[FreeCodeCamp's Frontend Development Libraries Certification](https://www.freecodecamp.org/certification/andresprza/front-end-development-libraries)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
