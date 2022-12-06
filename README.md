@@ -28,7 +28,7 @@ const Andres = {
 ![CSS](https://img.shields.io/badge/-CSS-09070f?style=flat&logo=css3&logoColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-09070f?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-09070f?style=flat&logo=Node.js&logoColor=ffffff)&nbsp;
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-09070f?style=flat&logo=typescript&logoColor=ffffff)&nbsp; -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-09070f?style=flat&logo=typescript&logoColor=ffffff)&nbsp;
 <!-- ![NextJs](https://img.shields.io/badge/-NextJs-09070f?style=flat&logo=next.js&logoColor=ffffff)&nbsp; -->
 ![Reactjs](https://img.shields.io/badge/-Reactjs-09070f?style=flat&logo=react&logoColor=ffffff)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-09070f?style=flat&logo=tailwindcss&logoColor=ffffff)&nbsp;
