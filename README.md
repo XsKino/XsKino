@@ -39,6 +39,7 @@ const Andres = {
 ✨ &nbsp;[FreeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/certification/andresprza/responsive-web-design)\
 ✨ &nbsp;[FreeCodeCamp's JavaScript Algorithms and data structures Certification](https://www.freecodecamp.org/certification/andresprza/javascript-algorithms-and-data-structures)\
 ✨ &nbsp;[FreeCodeCamp's Frontend Development Libraries Certification](https://www.freecodecamp.org/certification/andresprza/front-end-development-libraries)
+✨ &nbsp;[FreeCodeCamp's Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/andresprza/scientific-computing-with-python-v7)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
