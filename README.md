@@ -55,7 +55,7 @@ const Andres = {
 
 <p>
 <!-- <a href="https://www.andresprza.com"><img src="https://img.shields.io/badge/-andresprza.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/andrespdev"><img src="https://img.shields.io/badge/-andrespdev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/andresprza"><img src="https://img.shields.io/badge/-andresprza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/andresprza"><img src="https://img.shields.io/badge/-@andresprza-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:andresprza@gmail.com"><img src="https://img.shields.io/badge/-andresprza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
