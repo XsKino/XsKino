@@ -7,7 +7,7 @@
 🤔 &nbsp;&nbsp;My name is **Andrés**, but I also go by **Kino** if it's easier for you.\
 💡 &nbsp;I'm a **software developer** who likes to learn about new technologies and create software solutions.\
 🎓 &nbsp;I'm currently studying **Computer Science & Engineering** at *[Instituto Tecnologico de Chihuahua II](http://www.chihuahua2.tecnm.mx)*.\
-🌱 &nbsp;I currently specialize in **Web development**. I prefer **frontend** to **backend** .
+🌱 &nbsp;I specialize in **Web development**, and I prefer **frontend** to **backend** .
 
 ``` js
 const Andres = {
