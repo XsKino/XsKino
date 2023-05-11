@@ -4,15 +4,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🤔 &nbsp;&nbsp;My name is Andrés, but I also go by "Kino" if it's easier for you.\
-💡 &nbsp;I'm a **junior** software developer who likes to learn about new technologies and create software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science & Engineering at *[Instituto Tecnologico de Chihuahua II](http://www.chihuahua2.tecnm.mx)*.\
-🌱 &nbsp;I'm willing to learn and work on Web Development.
+🤔 &nbsp;&nbsp;My name is **Andrés**, but I also go by **Kino** if it's easier for you.\
+💡 &nbsp;I'm a **software developer** who likes to learn about new technologies and create software solutions.\
+🎓 &nbsp;I'm currently studying **Computer Science & Engineering** at *[Instituto Tecnologico de Chihuahua II](http://www.chihuahua2.tecnm.mx)*.\
+🌱 &nbsp;I currently specialize in **Web development**. I prefer **frontend** to **backend** .
 
 ``` js
 const Andres = {
   'from': 'Mexico',
-  'level': 'Junior'
   'stack': 'Frontend',
   'abilities': [
     'quick learning',
@@ -30,7 +29,7 @@ const Andres = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-09070f?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-09070f?style=flat&logo=Node.js&logoColor=ffffff)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-09070f?style=flat&logo=typescript&logoColor=ffffff)&nbsp;
-<!-- ![NextJs](https://img.shields.io/badge/-NextJs-09070f?style=flat&logo=next.js&logoColor=ffffff)&nbsp; -->
+![NextJs](https://img.shields.io/badge/-NextJs-09070f?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-Reactjs-09070f?style=flat&logo=react&logoColor=ffffff)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-09070f?style=flat&logo=tailwindcss&logoColor=ffffff)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-09070f?style=flat&logo=python&logoColor=ffffff)&nbsp;
