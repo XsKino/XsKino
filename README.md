@@ -4,7 +4,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;I'm a **junior** software developer who likes to learn about new technologies and create software solutions.\
+🤔 &nbsp;&nbsp;My name is Andrés, but I also go by "Kino" if it's easier for you.\
+💡 &nbsp;I'm a **junior** software developer who likes to learn about new technologies and create software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science & Engineering at *[Instituto Tecnologico de Chihuahua II](http://www.chihuahua2.tecnm.mx)*.\
 🌱 &nbsp;I'm willing to learn and work on Web Development.
 
