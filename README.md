@@ -1,21 +1,17 @@
-<h2 align="center">✨ Hi! ✨ </h2>
+<h2 align="center">✨ Hi there! ✨ </h2>
 
 ![I'm Kino](GitHubBanner.jpg)
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;**Software developer** who likes to learn about new technologies and create software solutions.\
-🎓 &nbsp;**Computer Science** student at *[Instituto Tecnologico de Chihuahua II](http://www.chihuahua2.tecnm.mx)*.\
-🌱 &nbsp;**Web development** is my field, though I *slightly* prefer **frontend** over **backend** .\
-🤔 &nbsp;&nbsp;**Kino** is an alias, my real name is **Andrés**
+👨🏻‍💻  About Me\
+💡  I'm Andrés, a passionate software developer exploring the realms of technology. Currently studying Computer Science at *[Chihuahua's Institute of Thecnology II](http://www.chihuahua2.tecnm.mx)*. My expertise lies in web development, with a *slight* inclination towards frontend.
 
 ``` js
 export kino = {
   'from': 'Mexico',
   'field': 'Web development',
   'skills': [
-    'self teaching',
-    'problem solving',
+    'self-teaching',
+    'problem-solving',
     'creativity',
     'collaboration and teamwork'
   ],
@@ -23,13 +19,14 @@ export kino = {
     'great attitude',
     'quick learning',
     'attention to detail',
-    'programming proeficiency',
-    'very perfectionist',
+    'programming proficiency',
+    'perfectionist',
   ],
   'defects': [
-    'very perfectionist',
+    'overly perfectionist',
   ],
 }
+
 ```
   
 ### 🛠 &nbsp;Tech Stack
@@ -47,26 +44,23 @@ export kino = {
 
 <!--![Java](https://img.shields.io/badge/-Java-09070f?style=flat&logo=java&logoColor=ffffff)&nbsp; <-- Java simple icon does not exist-->
 
-### 📜 &nbsp;Check some of my credentials
+### 📜  Check out some of my credentials
 ✨ &nbsp;[FreeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/certification/andresprza/responsive-web-design)\
 ✨ &nbsp;[FreeCodeCamp's JavaScript Algorithms and data structures Certification](https://www.freecodecamp.org/certification/andresprza/javascript-algorithms-and-data-structures)\
 ✨ &nbsp;[FreeCodeCamp's Frontend Development Libraries Certification](https://www.freecodecamp.org/certification/andresprza/front-end-development-libraries)\
 ✨ &nbsp;[FreeCodeCamp's Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/andresprza/scientific-computing-with-python-v7)
 
-### ⚙️ &nbsp;GitHub Analytics
-
+### ⚙️  GitHub Analytics
 <p>
 <a href="https://github.com/xskino">
   <img width="40%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xskino&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-### 🌠 &nbsp;Visit my website [Here](https://xskino.vercel.app)
+### 🌠  Visit my website [Here](https://xskino.vercel.app)
 
-### 🤝🏻 &nbsp;Contact me
-
+### 🤝🏻  Connect with me
 <p>
-<!-- <a href="https://www.andresprza.com"><img src="https://img.shields.io/badge/-andresprza.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/andresprza"><img src="https://img.shields.io/badge/-andresprza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/andresprza"><img src="https://img.shields.io/badge/-@andresprza-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:andresprza@gmail.com"><img src="https://img.shields.io/badge/-andresprza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
