@@ -2,7 +2,7 @@
 
 ![I'm Kino](GitHubBanner.jpg)
 
-👨🏻‍💻  About Me\
+### 👨🏻‍💻  About Me
 💡  I'm Andrés, a passionate software developer exploring the realms of technology. Currently studying Computer Science at *[Chihuahua's Institute of Thecnology II](http://www.chihuahua2.tecnm.mx)*. My expertise lies in web development, with a *slight* inclination towards frontend.
 
 ``` js
