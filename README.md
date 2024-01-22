@@ -57,7 +57,7 @@ export kino = {
 </a>
 </p>
 
-### 🌠  Visit my website [Here](https://xskino.vercel.app)
+### 🌠  Visit my website [Here](https://hello-kino.vercel.app)
 
 ### 🤝🏻  Connect with me
 <p>
