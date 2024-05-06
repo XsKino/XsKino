@@ -3,12 +3,10 @@
 ![I'm Kino](GitHubBanner.jpg)
 
 ### 👨🏻‍💻  About Me
-💡  I'm Andrés, a passionate software developer exploring the realms of technology. Currently studying Computer Science at *[Chihuahua's Institute of Thecnology II](http://www.chihuahua2.tecnm.mx)*. My expertise lies in web development, with a *slight* inclination towards frontend.
+💡  I'm a software developer just trying to make cool stuff. Currently studying Computer Science at *[Chihuahua's Institute of Thecnology II](http://www.chihuahua2.tecnm.mx)*. I'm in for all kinds of coding adventures, but I've got a soft spot for web development, especially when it comes to crafting sleek and user-friendly interfaces. Always eager to learn and tackle new challenges, I'm here to bring ideas to life, one line of code at a time!
 
 ``` js
 export kino = {
-  'from': 'Mexico',
-  'field': 'Web development',
   'skills': [
     'self-teaching',
     'problem-solving',
@@ -48,7 +46,9 @@ export kino = {
 ✨ &nbsp;[FreeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/certification/andresprza/responsive-web-design)\
 ✨ &nbsp;[FreeCodeCamp's JavaScript Algorithms and data structures Certification](https://www.freecodecamp.org/certification/andresprza/javascript-algorithms-and-data-structures)\
 ✨ &nbsp;[FreeCodeCamp's Frontend Development Libraries Certification](https://www.freecodecamp.org/certification/andresprza/front-end-development-libraries)\
-✨ &nbsp;[FreeCodeCamp's Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/andresprza/scientific-computing-with-python-v7)
+✨ &nbsp;[FreeCodeCamp's Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/andresprza/scientific-computing-with-python-v7)\
+✨ &nbsp;[Oracle ONE Next Education]([https://www.freecodecamp.org/certification/andresprza/front-end-development-libraries](https://app.aluracursos.com/program/certificate/b9146c2e-a581-45ac-a333-ca7f09b245e7))\
+
 
 ### ⚙️  GitHub Analytics
 <p>
