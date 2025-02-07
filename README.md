@@ -14,12 +14,12 @@
 - Niche problem-solving with tech
 - Clean, efficient code ("ship first, refactor later" bros gonna ship straight into tech debt)
 
-### 🌠  Visit my website [Here](https://hello-kino.vercel.app)
+### 🌠  [Visit my website!](https://hello-kino.vercel.app)
 
 ### 🤝🏻  Connect with me
 <p>
 <a href="https://linkedin.com/in/andresprza"><img src="https://img.shields.io/badge/-andresprza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/andresprza"><img src="https://img.shields.io/badge/-@andresprza-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/andresprza"><img src="https://img.shields.io/badge/-@andresprza-000?style=flat&logo=x&logoColor=white"/></a>
 <a href="mailto:andresprza@gmail.com"><img src="https://img.shields.io/badge/-andresprza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
   
